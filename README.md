@@ -1,12 +1,12 @@
 # PROJECT-1. Анализ резюме из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Описание-проекта)   
-[2. Какой кейс решаем?](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Какой-кейс-решаем)     
-[3. Краткая информация о данных](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Результаты)   
-[6. Выводы](https://github.com/Nikiv76/sf_ds2025/blob/main/project_HW-01/README.md#Выводы)   
+[1. Описание проекта](#Описание-проекта)   
+[2. Какой кейс решаем?](#Какой-кейс-решаем)     
+[3. Краткая информация о данных](#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](#Этапы-работы-над-проектом)  
+[5. Результаты](#Результаты)   
+[6. Выводы](https://github.com/Nikiv76/sf_ds2025/blob/main/Project_1/README.md#Выводы)   
 
 ### Описание проекта
 В рамках данного проекта исследуется база данных резюме соискателей, выгруженная с сайта поиска вакансий hh.ru.
